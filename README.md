@@ -11,4 +11,4 @@ Site para imagem. Esse projeto tem como objetivo treinar oque adquirimos de ling
 - Git
 
 ## Autor
-- [Fernando Baliana](https://www.linkedin.com/feed/)
+- [Fernando Baliana](https://www.linkedin.com/feed/)# img
